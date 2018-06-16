@@ -20,8 +20,18 @@ Setup
 	Before running this file it needs sligh editing for setting the file path:
 
 	Set these 2 path names and then run the program
-		pathofTrainingDataset = 'C:/Users/Chinmay/PycharmProjects/cks/CV/AirbnbProject/'
-		pathofTestingDataset =  'C:/Users/Chinmay/PycharmProjects/cks/CV/AirbnbProject/'
+		pathofTrainingDataset = 'C:/Users/./CV/AirbnbProject/'
+		pathofTestingDataset =  'C:/Users/./CV/AirbnbProject/'
+
+
+  
+
+
+
+  
+
+
+
 
 References for this project:
 
